@@ -10,6 +10,22 @@
 - 📫 How to reach me **nayanshingare93@gmail.com**
 
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Nayan Shingare</td>
+  </tr>
+ <tr>
+    <td>Education</td>
+    <td>B.E (pursuing)</td>
+  </tr>
+ <tr>
+    <td>Born</td>
+    <td>29 Nov, 2001</td>
+  </tr>
+ <tr>
+    <td>College Name</td>
+    <td>Fr C Rodrigues institute of technology</td>
+  </tr>
  <tr>
     <td>Occupation</td>
     <td>Web Developer</td>
