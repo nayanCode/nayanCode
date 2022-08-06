@@ -9,6 +9,13 @@
 
 - 📫 How to reach me **nayanshingare93@gmail.com**
 
+<table>
+ <tr>
+    <td>Occupation</td>
+    <td>Web Developer</td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__nayan__93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nayan__93" height="30" width="40" /></a>
