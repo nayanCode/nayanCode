@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 Currently pursuing my B.E in C.S 
 
 <!--
 **nayanCode/nayanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
