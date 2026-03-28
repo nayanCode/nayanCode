@@ -16,19 +16,19 @@
   </tr>
  <tr>
     <td>Education</td>
-    <td>B.E (pursuing)</td>
+    <td>B.E</td>
   </tr>
  <tr>
     <td>Born</td>
     <td>29 Nov, 2001</td>
   </tr>
  <tr>
-    <td>College Name</td>
-    <td>Fr C Rodrigues institute of technology</td>
+    <td>Company Name</td>
+    <td>Tata Consultancy Services</td>
   </tr>
  <tr>
-    <td>Occupation</td>
-    <td>Web Developer</td>
+    <td>Role</td>
+    <td>Full Stack Java Developer</td>
   </tr>
 </table>
 
